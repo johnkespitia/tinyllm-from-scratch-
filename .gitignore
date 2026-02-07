@@ -1,0 +1,4 @@
+.venv
+spm_unigram_*
+train_ids.bin
+data/raw/*
